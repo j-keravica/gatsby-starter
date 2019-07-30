@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/matthew-lejune-s1oesti1ywc-unsplash.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Arhiva utisaka | Inspiration Archive
+image: /img/main-image.jpg
+heading: Nesto
+subheading: nesto
 mainpitch:
-  title: Why Kaldi
+  title: Arhiva utisaka | Inspiration Archive
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
